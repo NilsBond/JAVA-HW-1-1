@@ -7,8 +7,8 @@
 На тестирование затрачено: 4 часа
 
 В результате тестирования выявлены следующие дефекты:
-* Номера карт American Express не проходят проверку
-  https://github.com/NilsBond/JAVA-HW-1-1/issues/1#issue-839119258
+* [При вводе номера карты American Express результат "Result is FAIL"](https://github.com/NilsBond/JAVA-HW-1-1/issues/1#issue-839119258)
+  
 
 ## Описание процесса тестирования
 
@@ -17,7 +17,7 @@
 * Задание по проведению проверки сервиса
 
 В качестве тестовых данных использовались данные:
-* Сервис по генерации валидных номеров карт https://fakepersongenerator.com/Random1/credit_card_generator
+* [Сервис по генерации валидных номеров карт](https://fakepersongenerator.com/Random1/credit_card_generator)
 
 Тестирование производилось в следующем окружении:
 * Windows 10 64-разрядная
